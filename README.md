@@ -1,0 +1,3 @@
+I've written no public code whatsoever since starting my work at Rocket Lab, where I've acquired a massive amount of experience across FDS, GSW, GNC, OPS, and other fields that I've dabbled in either for work or for pleasure. Working on missions like Thunder, Scorpius, Blue Ghost 2, Escapade, Victus Haze, and others has finally inspired me to review some fundamentals and make teaching materials once again. 
+
+These notebooks and python scripts are written mostly for pedagogical reasons for those interested in FDS/GNC and space mission engineering generally. 
